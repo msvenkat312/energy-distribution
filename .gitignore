@@ -131,6 +131,4 @@ dmypy.json
 # my files
 *.tar.gz
 test.ipynb
-HomeA/
-HomeB/
-HomeC/
+Home*/
